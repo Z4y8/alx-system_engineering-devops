@@ -1,2 +1,4 @@
-#!/bin/bash
+##!/bin/bash
+chmod 354 hello
+
 chmod --reference=olleh's hello
